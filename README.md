@@ -30,5 +30,5 @@ Sample columns expected:
 ### 1. Clone the Repository
 
 ```bash
-[
+
 https://github.com/akashsingh62/ollama-ollama-agent-project-demo](https://github.com/ollama/ollama)
