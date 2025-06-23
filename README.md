@@ -31,4 +31,4 @@ Sample columns expected:
 
 ```bash
 
-cd ai-job-rag-system](https://github.com/akashsingh62/ollama-ollama-agent-project-demo)
+https://github.com/akashsingh62/ollama-ollama-agent-project-demo
