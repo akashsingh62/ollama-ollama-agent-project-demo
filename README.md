@@ -30,5 +30,5 @@ Sample columns expected:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-job-rag-system.git
-cd ai-job-rag-system
+[git clone https://github.com/your-username/ai-job-rag-system.git
+cd ai-job-rag-system](https://github.com/akashsingh62/ollama-ollama-agent-project-demo)
