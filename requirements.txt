@@ -2,3 +2,5 @@ langchain
 langchain-ollama
 langchain-chroma
 pandas
+ollama pull llama3
+ollama pull mxbai-embed-large
