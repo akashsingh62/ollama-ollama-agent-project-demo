@@ -20,8 +20,8 @@ Sample columns expected:
 - `Job Title`
 - `Company`
 - `Description`
-- `Location` *(optional)*
-- `Salary` *(optional)*
+- `Location`
+- `Salary` 
 
 ---
 
