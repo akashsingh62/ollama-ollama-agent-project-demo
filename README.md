@@ -27,7 +27,7 @@ Sample columns expected:
 
 ## 🛠️ Setup Instructions
 
-### 1. Clone the Repository
+### 1. here you can learn how to run ollama locally 
 
 ```bash
 
